@@ -1,0 +1,13 @@
+{
+  "name": "workflow-automation-harness",
+  "version": "1.0.0",
+  "description": "Synthetic event-driven workflow automation harness with fee-status guards",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
